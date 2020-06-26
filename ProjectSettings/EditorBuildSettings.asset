@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5b2d1b3174cd71c419f4f9116f357b7a
+  - enabled: 1
+    path: Assets/Scenes/BuddySceneEasy.unity
+    guid: 5ec6118df2857274fbe4fa048c58ddff
+  - enabled: 1
+    path: Assets/Scenes/BuddySceneHard.unity
+    guid: 51cea82bd9877344cace190ebea6afbf
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: 66fdc3253ab1d80408cdda89936546e0
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 1d562e069e2c7ca45abd516475e54713
+  - enabled: 1
+    path: Assets/Scenes/BuddySceneMedium.unity
+    guid: d4f18f850d945bc45abe0cf9b16c407c
+  - enabled: 1
+    path: Assets/Scenes/Difficulty.unity
+    guid: f5c6ea004f90ffe4d9c75d0f9e9a9f7c
+  - enabled: 1
+    path: Assets/Scenes/SelectSong.unity
+    guid: 4c59c432de7842c45a11ee93f33766b3
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 8f63350cfa0c57b42a2775b3e0c0117e
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 9531124ede732f449b0c505cc694e8d1
+  m_configObjects: {}

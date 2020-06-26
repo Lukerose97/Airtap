@@ -1,0 +1,25 @@
+Luke Rose W16020498
+---------------------------------------------------------------------------
+vvv Download the Leap Motion SDK v2.3.1 when using the leap motion controller
+->> https://developer.leapmotion.com/sdk/v2
+---------------------------------------------------------------------------
+Programming Language: C#
+Software: Unity
+Executable Location: individualComputingProject/Exe/Individual Computing Project
+---------------------------------------------------------------------------
+Leap Motion:
+The Leap controller can only be used for the play scene and not any UI.
+Please install the software from the link above if you wish to use the Leap Motion controller
+and make sure the software for the Leap Motion is running before starting the executable.
+In the play scene place hands about 15cm - 30cm above to controller.
+Wait until you hands are tracked.
+If your hands do not appear, try to remove the Leap controller from the USB slot and
+place it back in again.
+If the hands still don't track, restart you computer.
+---------------------------------------------------------------------------
+Mouse and Keyboard:
+When using mouse and Keyboard to play, from left right, the white disks 
+correspond with the folowwing keys:
+
+	0	0	0	0	0
+	Q	W	E	R	T
